@@ -1,0 +1,13 @@
+body {
+	background: #000000;
+}
+
+.imgContainer {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.myImage {
+	width: 30%;
+}
